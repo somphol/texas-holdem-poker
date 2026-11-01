@@ -2,6 +2,8 @@
 
 **▶ Play online: [somphol.github.io/texas-holdem-poker](https://somphol.github.io/texas-holdem-poker/)**
 
+**Prefer 3D?** Play the [cinematic 3D edition](https://somphol.github.io/texas-holdem-3d/).
+
 A complete no-limit Texas Hold'em tournament against up to five AI opponents — in a
 single HTML file. No build step, no frameworks, no dependencies.
 
