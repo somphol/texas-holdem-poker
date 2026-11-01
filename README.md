@@ -1,13 +1,21 @@
+<div align="center">
+
+<img src="docs/social-card.png" alt="Night Shift · Texas Hold'em — No-Limit Poker, One File" width="100%" />
+
 # Night Shift · Texas Hold'em
 
-**▶ Play online: [somphol.github.io/texas-holdem-poker](https://somphol.github.io/texas-holdem-poker/)**
+**No-Limit Poker, One File**
 
-**Prefer 3D?** Play the [cinematic 3D edition](https://somphol.github.io/texas-holdem-3d/).
+A complete no-limit Texas Hold'em tournament against up to five AI opponents in a single HTML file — no build step, no dependencies.
 
-A complete no-limit Texas Hold'em tournament against up to five AI opponents — in a
-single HTML file. No build step, no frameworks, no dependencies.
+[![Live demo](https://img.shields.io/badge/live_demo-online-d4af37?style=flat-square)](https://somphol.github.io/texas-holdem-poker/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-d4af37?style=flat-square)](LICENSE)
 
-![Night Shift Texas Hold'em](screenshot.png)
+**[Try it live →](https://somphol.github.io/texas-holdem-poker/)**
+
+</div>
+
+---
 
 ## Features
 
