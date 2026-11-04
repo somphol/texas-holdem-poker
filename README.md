@@ -109,6 +109,11 @@ documentation fixes alike. Please read [CONTRIBUTING.md](CONTRIBUTING.md) and th
 | Document | Purpose |
 | --- | --- |
 | [README.md](README.md) | Overview, setup, controls, and architecture |
+| [AGENTS.md](AGENTS.md) | Handoff for the next maintainer or agent |
+| [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | Engine, evaluator, bots, pots, UI map |
+| [docs/REPRODUCTION.md](docs/REPRODUCTION.md) | How to rebuild the game from scratch |
+| [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md) | GitHub Pages hosting, checks, rollback |
+| [docs/TESTING.md](docs/TESTING.md) | What was verified, full-hand test matrix |
 | [CHANGELOG.md](CHANGELOG.md) | Notable changes and release history |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | Local workflow, constraints, and pull request checks |
 | [SECURITY.md](SECURITY.md) | Supported versions and private vulnerability reporting |
